@@ -1,4 +1,4 @@
-Gemini said
+
 John the Ripper: Password Auditing and Security Tool Implementation
 Overview
 John the Ripper (JtR) is a versatile, open-source password security auditing and recovery tool. This project demonstrates its core functionalities in identifying weak credentials by decrypting various hash values into plaintext. It covers the tool's application across different platforms and its integration into automated security workflows.
